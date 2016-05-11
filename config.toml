@@ -1,0 +1,12 @@
+baseurl = "http://windyboy.github.io/gh_blog"
+languageCode = ""
+title = "My New Hugo Site"
+canonifyurls = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Awesome Hugo Blog Site"
+  author = "Nikola Tesla"
