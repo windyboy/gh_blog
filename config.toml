@@ -2,6 +2,7 @@ baseurl = "http://windyboy.github.io/gh_blog/"
 languageCode = ""
 title = "My New Hugo Site"
 canonifyurls = true
+theme = "ghostwriter"
 
 [taxonomies]
   category = "categories"
