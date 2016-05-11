@@ -3,7 +3,13 @@
   
   <url>
     <loc>http://windyboy.github.io/gh_blog/</loc>
+    <lastmod>2016-05-11T10:17:03+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://windyboy.github.io/gh_blog/2016/05/11/new/</loc>
+    <lastmod>2016-05-11T10:17:03+08:00</lastmod>
   </url>
   
 </urlset>

@@ -5,7 +5,20 @@
     <link>http://windyboy.github.io/gh_blog/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 May 2016 10:17:03 +0800</lastBuildDate>
     <atom:link href="http://windyboy.github.io/gh_blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>new</title>
+      <link>http://windyboy.github.io/gh_blog/2016/05/11/new/</link>
+      <pubDate>Wed, 11 May 2016 10:17:03 +0800</pubDate>
+      
+      <guid>http://windyboy.github.io/gh_blog/2016/05/11/new/</guid>
+      <description>
+
+&lt;h1 id=&#34;new-page:b7a73ff21accb7e89945477d6c352c48&#34;&gt;New Page&lt;/h1&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
