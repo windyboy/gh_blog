@@ -1,4 +1,4 @@
-baseurl = "http://windyboy.github.io/gh_blogi/"
+baseurl = "http://windyboy.github.io/gh_blog/"
 languageCode = ""
 title = "My New Hugo Site"
 canonifyurls = true
